@@ -1,6 +1,6 @@
 #  Password Strength Checker
 
-A simple and responsive web application that checks the strength of a  password in real time. Built using HTML, CSS, and JavaScript.
+A simple and responsive web application that checks the strength of a user's password in real time. Built using HTML, CSS, and JavaScript.
 
 ##  Features
 
